@@ -1,0 +1,26 @@
+Ticket_ID,Airline,Origin,Destination,Distance_km,Class,Days_Before_Departure,Price_USD,Units_Sold,Revenue_USD,,Class,Total Sales,Average Sales,Total Revenue,Average Revenue
+2,Etihad,Istanbul,Jeddah,8266,Business,98,2227.96,144,320826.24,,,,,,
+25,Etihad,Riyadh,Cairo,2533,Business,54,1211.14,181,219216.34,,Business,1418,128.9090909,2745456.4,249586.9455
+26,Etihad,Mumbai,Istanbul,3201,Business,71,2009.24,137,275265.88,,,,,,
+63,Etihad,Istanbul,London,2201,Business,80,1058.28,88,93128.64,,Economy,394,56.28571429,410307.91,58615.41571
+103,Etihad,Cairo,Istanbul,8201,Business,86,2627.88,200,525576,,,,,,
+111,Etihad,Cairo,Riyadh,11081,Business,91,2656.31,118,313444.58,,First ,638,106.3333333,1704340.21,284056.7017
+132,Etihad,Paris,Cairo,1602,Business,19,4295.4,39,167520.6,,Total ,2450,291.5281385,4860104.52,592259.0628
+172,Etihad,Dubai,Jeddah,8402,Business,75,2038.94,133,271179.02,,,,,,
+176,Etihad,Doha,Paris,4413,Business,112,393.39,134,52714.26,,,,,,
+191,Etihad,Istanbul,Mumbai,7130,Business,72,2720.95,160,435352,,Difference Between the Three,,,,
+217,Etihad,Dubai,New York,4002,Business,75,848.01,84,71232.84,,,,,,
+34,Etihad,Mumbai,London,4319,Economy,53,1792.07,8,14336.56,,Business and Economy ,,,,
+68,Etihad,Cairo,Istanbul,6998,Economy,8,981.05,16,15696.8,,Sales,,Revenue,,
+75,Etihad,Riyadh,Mumbai,3075,Economy,32,1198.38,65,77894.7,,Total ,1024,Total ,2335148.49,
+77,Etihad,Istanbul,Dubai,6447,Economy,74,1417.51,124,175771.24,,Average ,72.62337662,Average,190971.5297,
+126,Etihad,Doha,Riyadh,2279,Economy,103,696.06,18,12529.08,,,,,,
+210,Etihad,New York,Cairo,11384,Economy,11,425.61,49,20854.89,,Business and First,,,,
+245,Etihad,Istanbul,Cairo,6420,Economy,37,817.76,114,93224.64,,Sales,,Revenue ,,
+31,Etihad,Jeddah,Istanbul,9267,First,34,1310.46,191,250297.86,,Total ,780,Total ,1041116.19,
+94,Etihad,Istanbul,Riyadh,396,First,107,1243.63,74,92028.62,,Average ,22.57575758,Average ,34469.75621,
+109,Etihad,Istanbul,Dubai,3445,First,105,5377.31,18,96791.58,,,,,,
+145,Etihad,Jeddah,Cairo,4154,First,89,5889.12,163,959926.56,,Economy and First ,,,,
+175,Etihad,Istanbul,Paris,460,First,118,1749.77,167,292211.59,,Sales,,Revenue ,,
+200,Etihad,Paris,Doha,6019,First,106,523.36,25,13084,,Total ,244,Total ,1294032.3,
+,,,,,,,,,,,Average ,50.04761905,Average ,225441.286,

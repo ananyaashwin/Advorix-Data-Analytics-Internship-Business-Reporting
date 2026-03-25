@@ -1,0 +1,31 @@
+Ticket_ID,Airline,Origin,Destination,Distance_km,Class,Days_Before_Departure,Price_USD,Units_Sold,Revenue_USD,,Class,Total Sales,Average Sales,Total Revenue,Average Revenue
+17,Thai Airways,New York,Mumbai,5573,Business,82,1298.37,103,133732.11,,,,,,
+54,Thai Airways,Paris,Cairo,11328,Business,80,6071.56,11,66787.16,,Busines,1014,112.6666667,2107613.44,234179.2711
+85,Thai Airways,Paris,Cairo,10287,Business,112,2854.75,94,268346.5,,,,,,
+104,Thai Airways,Mumbai,Paris,3857,Business,60,281.79,155,43677.45,,Economy ,1073,119.2222222,2687579.65,298619.9611
+144,Thai Airways,Doha,Jeddah,11773,Business,56,1594.79,179,285467.41,,,,,,
+224,Thai Airways,Doha,Dubai,6204,Business,91,2915.5,18,52479,,First ,1244,103.6666667,2692922.59,224410.2158
+229,Thai Airways,London,Paris,9280,Business,61,1513.01,125,189126.25,,Total,3331,335.5555556,7488115.68,757209.4481
+232,Thai Airways,Doha,Cairo,4307,Business,114,4298.76,132,567436.32,,,,,,
+240,Thai Airways,Mumbai,Istanbul,6955,Business,7,2540.92,197,500561.24,,,,,,
+53,Thai Airways,Jeddah,Istanbul,5677,Economy,76,1501.05,109,163614.45,,Difference Between the Three,,,,
+56,Thai Airways,Paris,New York,9950,Economy,66,1005.86,122,122714.92,,,,,,
+66,Thai Airways,Dubai,Riyadh,718,Economy,72,968.12,59,57119.08,,Business and Economy ,,,,
+119,Thai Airways,Jeddah,Cairo,2974,Economy,117,1091.12,117,127661.04,,Sales,,Revenue,,
+123,Thai Airways,Riyadh,Paris,7345,Economy,86,1610.66,176,283476.16,,Total ,59,Total ,579966.21,
+148,Thai Airways,Dubai,Riyadh,7661,Economy,71,2398.78,121,290252.38,,Average ,6.555555556,Average ,64440.69,
+183,Thai Airways,Istanbul,Mumbai,11903,Economy,41,6895.45,152,1048108.4,,,,,,
+218,Thai Airways,Riyadh,Cairo,10682,Economy,5,1686.46,44,74204.24,,Business and First ,,,,
+236,Thai Airways,Mumbai,Istanbul,9840,Economy,4,3008.26,173,520428.98,,Sales,,Revenue ,,
+6,Thai Airways,Mumbai,Istanbul,9382,First,19,372.85,96,35793.6,,Total ,230,Total ,585309.15,
+8,Thai Airways,Istanbul,Doha,6122,First,88,1120.52,16,17928.32,,Average ,9,Average ,9769.055278,
+69,Thai Airways,Dubai,London,931,First,6,1315.64,152,199977.28,,,,,,
+115,Thai Airways,Doha,Cairo,10409,First,75,8852.69,121,1071175.49,,Economy and First ,,,,
+153,Thai Airways,Riyadh,Mumbai,1548,First,50,2322.56,192,445931.52,,Sales,,Revenue ,,
+157,Thai Airways,Paris,Istanbul,6948,First,52,1783.66,142,253279.72,,Total ,171,Total ,5342.94,
+177,Thai Airways,Jeddah,Doha,336,First,45,562.73,146,82158.58,,Average ,15.55555556,Average ,74209.74528,
+187,Thai Airways,Doha,New York,2609,First,31,3467.59,41,142171.19,,,,,,
+211,Thai Airways,Cairo,Dubai,3045,First,98,875.76,98,85824.48,,,,,,
+221,Thai Airways,Jeddah,Paris,636,First,67,1835.17,65,119286.05,,,,,,
+225,Thai Airways,Riyadh,Paris,9699,First,34,1167.88,77,89926.76,,,,,,
+247,Thai Airways,Dubai,Paris,6941,First,36,1525.2,98,149469.6,,,,,,

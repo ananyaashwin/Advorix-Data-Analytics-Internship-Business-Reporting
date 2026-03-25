@@ -1,0 +1,33 @@
+Ticket_ID,Airline,Origin,Destination,Distance_km,Class,Days_Before_Departure,Price_USD,Units_Sold,Revenue_USD,,Class,Total Sales,Average Sales,Total Revenue,Average Revenue
+51,Emirates,Cairo,Istanbul,10191,Business,20,380.98,99,37717.02,,,,,,
+136,Emirates,Paris,Doha,10255,Business,94,650.83,126,82004.58,,Business,520,74.28571429,587435.7,83919.38571
+143,Emirates,London,Cairo,8474,Business,108,942.15,80,75372,,,,,,
+185,Emirates,Paris,Riyadh,11720,Business,45,2297.97,164,376867.08,,Economy,1529,1761.799333,2487199.22,165813.2813
+205,Emirates,Mumbai,Paris,623,Business,58,354.7,22,7803.4,,,,,,
+207,Emirates,Istanbul,New York,444,Business,93,245.53,24,5892.72,,First,1011,101.1,1562497.13,156249.713
+233,Emirates,Paris,Doha,4278,Business,43,355.78,5,1778.9,,Total,3060,1937.185048,4637132.05,405982.38
+7,Emirates,Doha,Dubai,3506,Economy,85,2073.14,101,209387.14,,,,,,
+24,Emirates,Istanbul,Jeddah,440,Economy,86,498.29,145,72252.05,,,,,,
+38,Emirates,New York,Istanbul,9282,Economy,111,597.5,154,92015,,Difference Between the Three,,,,
+39,Emirates,Paris,Istanbul,3605,Economy,19,1444.13,52,75094.76,,,,,,
+44,Emirates,New York,Jeddah,5881,Economy,33,905.78,72,65216.16,,Business and Economy ,,,,
+50,Emirates,Riyadh,New York,3696,Economy,6,631.08,114,71943.12,,Sales,,Revenue,,
+98,Emirates,New York,Mumbai,8561,Economy,98,775.55,147,114005.85,,Total Sales,1009,Total Revenue,1899763.52,
+106,Emirates,Dubai,Cairo,7266,Economy,62,4160.18,146,607386.28,,Average Sales,1687.513619,Average Revenue,81893.89562,
+117,Emirates,Dubai,New York,8817,Economy,8,4032.71,41,165341.11,,,,,,
+130,Emirates,London,Istanbul,6494,Economy,5,2284.29,132,301526.28,,Business and First,,,,
+142,Emirates,New York,Paris,8104,Economy,78,2499.06,30,74971.8,,Sales,,Revenue,,
+182,Emirates,Riyadh,Istanbul,8765,Economy,39,3014.65,113,340655.45,,Total Sales,491,Total Revenue,975061.43,
+222,Emirates,Cairo,New York,8903,Economy,106,1030.1,125,128762.5,,Average Sales,26.81428571,Average Revenue,72330.32729,
+223,Emirates,Paris,Dubai,10595,Economy,101,1001,133,133133,,,,,,
+250,Emirates,Paris,New York,11507,Economy,72,1479.53,24,35508.72,,Economy and First,,,,
+4,Emirates,London,Istanbul,7956,First,24,814.07,112,91175.84,,Sales,,Revenue,,
+116,Emirates,London,Dubai,10021,First,41,287.58,55,15816.9,,Total Sales,518,Total Revenue,924702.09,
+155,Emirates,Paris,Jeddah,2186,First,67,2497.11,128,319630.08,,Average Sales,1660.699333,Average Revenue,9563.568333,
+156,Emirates,London,New York,3806,First,11,594.92,62,36885.04,,,,,,
+161,Emirates,Paris,London,9472,First,118,440.82,131,57747.42,,,,,,
+166,Emirates,London,Doha,8152,First,70,2445.98,168,410924.64,,,,,,
+174,Emirates,Doha,Istanbul,7767,First,73,1512.77,23,34793.71,,,,,,
+197,Emirates,Istanbul,Riyadh,3578,First,104,3975.44,85,337912.4,,,,,,
+215,Emirates,Istanbul,Mumbai,2605,First,37,2325.11,84,195309.24,,,,,,
+219,Emirates,Istanbul,Mumbai,11228,First,37,382.22,163,62301.86,,,,,,

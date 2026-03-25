@@ -1,0 +1,33 @@
+Ticket_ID,Airline,Origin,Destination,Distance_km,Class,Days_Before_Departure,Price_USD,Units_Sold,Revenue_USD,,Class,Total Sales,Average Sales,Total Revenue,Average Revenue
+80,Air India ,New York,Istanbul,8125,Business,3,1404.2,129,181141.8,,,,,,
+146,Air India ,Cairo,London,4529,Business,30,185.7,122,22655.4,,Business ,727,103.8571429,900480.45,128640.0643
+248,Air India ,Doha,London,7396,Business,34,644.19,117,75370.23,,,,,,
+30,Air India ,Jeddah,London,6248,Business,82,439.16,53,23275.48,,Economy ,1450,120.8333333,3718410.06,309867.505
+23,Air India ,Istanbul,New York,6192,Business,23,516.19,26,13420.94,,,,,,
+158,Air India ,Cairo,Riyadh,11771,Business,116,1029.87,100,102987,,First ,1257,96.69230769,2477396.36,190568.9508
+141,Air India ,Dubai,Riyadh,10709,Business,7,2675.72,180,481629.6,,Total ,3434,321.3827839,7096286.87,629076.5201
+27,Air India ,Istanbul,Cairo,2880,Economy,38,6495.84,146,948392.64,,,,,,
+134,Air India ,Jeddah,Cairo,4205,Economy,49,7698.07,93,715920.51,,,,,,
+135,Air India ,Paris,Cairo,9160,Economy,12,790.36,183,144635.88,,Difference Between the Three,,,,
+241,Air India ,Istanbul,Doha,3516,Economy,6,5746.4,36,206870.4,,,,,,
+79,Air India ,Jeddah,Doha,965,Economy,8,3257.78,104,338809.12,,Business and Economy ,,,,
+101,Air India ,New York,Doha,10818,Economy,25,1485.53,146,216887.38,,Sales,,Revenue,,
+122,Air India ,Riyadh,Istanbul,2195,Economy,97,2807.81,116,325705.96,,Total Sales,723,Total Revenue,2817929.61,
+118,Air India ,London,Jeddah,7499,Economy,3,1334.79,117,156170.43,,Average Sales,16.97619048,Average Revenue,181227.4407,
+149,Air India ,Jeddah,London,2927,Economy,71,876.97,151,132422.47,,,,,,
+238,Air India ,Mumbai,New York,4433,Economy,76,1613.13,39,62912.07,,Business and First ,,,,
+114,Air India ,Cairo,Paris,5301,Economy,114,2895.64,125,361955,,Sales,,Revenue,,
+1,Air India ,Mumbai,Paris,2643,Economy,28,555.3,194,107728.2,,Total Sales,530,Total Revenue,1576915.91,
+112,Air India ,Doha,Cairo,8949,First,39,2210.16,194,428771.04,,Average Sales,7.164835165,Average Revenue,61928.88648,
+78,Air India ,Istanbul,Cairo,8736,First,61,2282.17,10,22821.7,,,,,,
+83,Air India ,Doha,Dubai,6644,First,110,632.42,88,55652.96,,Economy and First ,,,,
+171,Air India ,Doha,Dubai,9131,First,115,507.24,195,98911.8,,Sales,,Revenue,,
+128,Air India ,Paris,Istanbul,7129,First,63,7601,12,91212,,Total Sales,193,Total Revenue,1241013.7,
+120,Air India ,Cairo,Jeddah,5106,First,50,1929.27,11,21221.97,,Average Sales,24.14102564,Average Revenue,119298.5542,
+64,Air India ,Dubai,Jeddah,6533,First,37,3032.38,102,309302.76,,,,,,
+235,Air India ,Riyadh,Jeddah,5058,First,65,682.12,104,70940.48,,,,,,
+35,Air India ,Doha,London,5531,First,45,2323.31,107,248594.17,,,,,,
+16,Air India ,Paris,London,3864,First,9,1883.11,17,32012.87,,,,,,
+19,Air India ,Riyadh,Mumbai,7444,First,109,5349.65,121,647307.65,,,,,,
+11,Air India ,Mumbai,New York,6328,First,55,2070.27,102,211167.54,,,,,,
+216,Air India ,Paris,Riyadh,11094,First,85,1234.43,194,239479.42,,,,,,

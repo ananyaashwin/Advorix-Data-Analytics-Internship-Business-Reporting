@@ -1,0 +1,27 @@
+Ticket_ID,Airline,Origin,Destination,Distance_km,Class,Days_Before_Departure,Price_USD,Units_Sold,Revenue_USD,,Class,Total Sales,Average Sales,Total Revenue,Average Revenue
+13,Singapore Airlines,Mumbai,Paris,2049,Business,72,869.1,150,130365,,,,,,
+108,Singapore Airlines,London,Doha,3314,Business,47,1414.68,127,179664.36,,Business,877,97.44444444,728537.77,80948.64111
+121,Singapore Airlines,London,New York,2060,Business,76,293.77,200,58754,,,,,,
+129,Singapore Airlines,Riyadh,Dubai,7895,Business,83,547.91,109,59722.19,,Economy ,1165,129.4444444,1616499.68,179611.0756
+131,Singapore Airlines,Dubai,Riyadh,9975,Business,108,248.52,67,16650.84,,,,,,
+186,Singapore Airlines,Jeddah,Riyadh,2829,Business,117,1494.54,73,109101.42,,First ,863,107.875,2001939.71,250242.4638
+206,Singapore Airlines,Riyadh,Mumbai,1531,Business,102,1615.37,23,37153.51,,Total,2905,334.7638889,4346977.16,510802.1804
+214,Singapore Airlines,Istanbul,Cairo,6704,Business,64,1066.93,41,43744.13,,,,,,
+244,Singapore Airlines,London,Riyadh,7406,Business,34,1073.36,87,93382.32,,,,,,
+36,Singapore Airlines,Doha,Istanbul,2695,Economy,55,1495.68,121,180977.28,,Difference Between the Three,,,,
+76,Singapore Airlines,Doha,London,1621,Economy,60,1374.01,182,250069.82,,,,,,
+96,Singapore Airlines,Paris,Cairo,2607,Economy,73,1537.27,176,270559.52,,Business and Economy,,,,
+107,Singapore Airlines,Jeddah,Istanbul,7532,Economy,68,278.66,125,34832.5,,Sales,,Revenue ,,
+139,Singapore Airlines,New York,Paris,7324,Economy,71,1268.99,182,230956.18,,Total,288,Total ,887961.91,
+181,Singapore Airlines,London,Cairo,8149,Economy,105,1226.63,148,181541.24,,Average,32,Average ,98662.43444,
+198,Singapore Airlines,London,Riyadh,8465,Economy,13,1616.61,34,54964.74,,,,,,
+201,Singapore Airlines,Riyadh,New York,11551,Economy,109,2040.9,167,340830.3,,Business and First ,,,,
+228,Singapore Airlines,Jeddah,Riyadh,9316,Economy,60,2392.27,30,71768.1,,Sales,,Revenue ,,
+10,Singapore Airlines,New York,Jeddah,3760,First,36,916.82,184,168694.88,,Total ,14,Total ,1273401.94,
+43,Singapore Airlines,Mumbai,Istanbul,10486,First,95,1775.34,23,40832.82,,Average,10.43055556,Average ,169293.8226,
+62,Singapore Airlines,London,Dubai,4101,First,18,1825.15,89,162438.35,,,,,,
+73,Singapore Airlines,Jeddah,London,3101,First,64,2247.61,195,438283.95,,Economy and First,,,,
+178,Singapore Airlines,Doha,Mumbai,6188,First,78,361.61,121,43754.81,,Sales,,Revenue ,,
+180,Singapore Airlines,Istanbul,Jeddah,695,First,75,2472.36,29,71698.44,,Total ,302,Total ,385440.03,
+212,Singapore Airlines,Riyadh,Mumbai,3843,First,81,4174.01,166,692885.66,,Average,21.56944444,Average,70631.38819,
+239,Singapore Airlines,Mumbai,Riyadh,10724,First,31,6845.55,56,383350.8,,,,,,
